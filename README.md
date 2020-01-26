@@ -1,9 +1,11 @@
 # Order-Execution-Strategy
 
-The python file simulation.py implements the Market impact function as proposed by almgren chris (https://www.math.nyu.edu/faculty/chriss/optliq_f.pdf)
+# About the Project
 
-The python file gbm.py implements the order execution strategy under the assumption of geometric brownian motion as proposed by Jim Gatheral and Alexander Scheid (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
+The optimal slicing of portfolio transactions deals with the 
 
-Data.zip is a compressed file that contains multiple end of minute equity price data for the tickers trading in the National Stock Exchange.
 
-The authors have also considered and implemented other order execution strategy papers that are available in the Papers folder.
+## Authors
+
+> > * Kousik Krishnan - Quantitative Analyst, Credit Suisse (https://www.linkedin.com/in/kousik-krishnan-239073101/)
+> > * Sushant Vijayan - Doctoral Candidate at Tata Institute of Fundamental Research (https://www.linkedin.com/in/sushant-vijayan-3574886a/)
