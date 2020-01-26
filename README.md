@@ -12,5 +12,5 @@ In this project, the authors have done a literature survey of some popuplar algo
 
 ## Authors
 
-> > * Kousik Krishnan - Quantitative Analyst, Credit Suisse (https://www.linkedin.com/in/kousik-krishnan-239073101/)
-> > * Sushant Vijayan - Doctoral Candidate at Tata Institute of Fundamental Research (https://www.linkedin.com/in/sushant-vijayan-3574886a/)
+* Kousik Krishnan - Quantitative Analyst, Credit Suisse (https://www.linkedin.com/in/kousik-krishnan-239073101/)
+* Sushant Vijayan - Doctoral Candidate at Tata Institute of Fundamental Research (https://www.linkedin.com/in/sushant-vijayan-3574886a/)
