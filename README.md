@@ -2,13 +2,14 @@
 
 ## About the Project
 
-In this project, the authors have done a literature survey of some popuplar algorithms/frameworks in the field of optimal slicing of portfolio transactions. We start out with the seminal work of Almgren Chriss and review till the recent paper by Jim Gatheral on thr 
+In this project, the authors have done a literature survey of some popuplar algorithms/frameworks in the field of optimal slicing of portfolio transactions. The algorithms are implemented in python and backtested using real time stock data that are derived from the tickers which are traded on the Indian stock market (NSE). The survey starts with the review of the seminal work of Robert Almgren and Neil Chriss and continues to other works that are built on top of the framework. All the hyper-parameters are tuned using methods proposed by the authors.
 
 ## Codes
 
-> > 1. simulation_engine.py - Python file implementing the market impact function as proposed in the almgren-chriss framework (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
-> > 2. gbm.py - Python file implementing the optimal order execution as given by Jim Gatheral and Alexander Scheid paper (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151) 
-> > 3. 
+* simulation_engine.py - Python file implementing the market impact function as proposed in the almgren-chriss framework (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
+* gbm.py - Python file implementing the optimal order execution as given by Jim Gatheral and Alexander Scheid (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151) 
+* konishi.py - Python file implementing the optimal order execution as given by Konishi (https://www.sciencedirect.com/science/article/abs/pii/S1386418101000234) 
+* almgren_chris.py - Python file implementing the optimal orcer execution strategy as given by Robert Almgren and Neil Chris. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
 
 ## Authors
 
