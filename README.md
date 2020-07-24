@@ -9,7 +9,7 @@ Literature survey of popuplar trade slicing algorithms. The algorithms are imple
 * simulation_engine.py - Python file implementing the market impact function as proposed in the almgren-chriss framework (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
 * gbm.py - Python file implementing the optimal order execution as given by Jim Gatheral and Alexander Scheid (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151) 
 * konishi.py - Python file implementing the optimal order execution as given by Konishi (https://www.sciencedirect.com/science/article/abs/pii/S1386418101000234) 
-* almgren_chris.py - Python file implementing the optimal orcer execution strategy as given by Robert Almgren and Neil Chris. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
+* almgren_chris.py - Python file implementing the optimal order execution strategy as given by Robert Almgren and Neil Chris. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1654151)
 
 ## Authors
 
