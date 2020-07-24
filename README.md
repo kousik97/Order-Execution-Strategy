@@ -2,7 +2,7 @@
 
 ## About the Project
 
-A literature survey of some popuplar algorithms/frameworks in the field of optimal slicing of portfolio transactions. The algorithms are implemented in python and backtested using real time stock data that are derived from the tickers which are traded on the Indian stock market (NSE). The survey starts with the review of the seminal work of Robert Almgren and Neil Chriss and continues to other works that are built on top of the framework. All the hyper-parameters are tuned using methods proposed by the authors.
+Literature survey of popuplar trade slicing algorithms. The algorithms are implemented in python and backtested using real time stock data traded on the Indian stock market (NSE). The survey starts with the review of the seminal work of Robert Almgren and Neil Chriss and continues to other works that are built on top of the framework. All the hyper-parameters are tuned using methods proposed by the authors.
 
 ## Codes
 
